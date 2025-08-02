@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\C++\Game Engine Development\shapeCal\main.cpp(13,23): warning C4101: 'b': unreferenced local variable
+  profile.cpp
+C:\C++\Game Engine Development\shapeCal\profile.cpp(24,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  ShapeCal.vcxproj -> C:\C++\Game Engine Development\shapeCal\x64\Debug\ShapeCal.exe
