@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B\\Game Engine Development\\Simple 3D Object\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC70D1C-C269-4397-A4CA-92FC00B13005}|TKMath.vcxproj|C:\\C\u002B\u002B\\Game Engine Development\\Simple 3D Object\\Mesh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FC70D1C-C269-4397-A4CA-92FC00B13005}|TKMath.vcxproj|solutionrelative:Mesh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC70D1C-C269-4397-A4CA-92FC00B13005}|TKMath.vcxproj|C:\\C\u002B\u002B\\Game Engine Development\\Simple 3D Object\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FC70D1C-C269-4397-A4CA-92FC00B13005}|TKMath.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mesh.hpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Game Engine Development\\Simple 3D Object\\Mesh.hpp",
+              "RelativeDocumentMoniker": "Mesh.hpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Game Engine Development\\Simple 3D Object\\Mesh.hpp",
+              "RelativeToolTip": "Mesh.hpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-02T11:59:32.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Game Engine Development\\Simple 3D Object\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Game Engine Development\\Simple 3D Object\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-02T11:59:54.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
