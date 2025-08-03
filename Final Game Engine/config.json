@@ -1,0 +1,12 @@
+{
+  "windowWidth": 1280,
+  "windowHeight": 720,
+  "ambientIntensity": 0.4,
+  "cameraPosition": [0.0, 0.0, 5.0],
+  "cameraTarget": [0.0, 0.0, 0.0],
+  "objectPosition": [0.0, 0.0, 0.0],
+  "objectRotation": [0.0, 0.0, 0.0],
+  "objectSize": 1.0,
+  "texturePath": "assets/Bocchi.png",
+  "musicPath": "assets/Seishun Complex_Bocchi The Rock.mp3"
+}
